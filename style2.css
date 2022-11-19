@@ -1,0 +1,108 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+.hidden{
+ width: 250px;
+}
+
+.hidden {
+      border: 2px solid ; 
+      border-radius: 2px;
+      background: lightblue;
+      color: white;
+      display:inline-block;
+      padding:20px;
+      /* margin: 2px; */
+      width: 15%;
+      transition:2s;
+    }
+    .hidden:hover {
+      border: 2px groove ;
+      border-radius:0px;
+      color:black;
+      background:white;
+      transition:0.5s
+    }
+
+.background{
+    background: rgba(0, 0, 0, 0.7) url("docc.webp");
+    background-size: cover;
+   /* background-blend-mode: darken; */
+}
+
+.heading{
+    text-align: right;
+    color: black;
+    margin-right: 100px;
+    
+}
+
+
+.form-main{
+    display: flex;
+    justify-content: right;
+    color: white;
+    margin-right: 60px;
+    margin-top: 30px;
+   
+}
+
+.form-mainn{
+    display: flex;
+    justify-content: right;
+    color: black;
+    /* margin-right: 40px; */
+
+   
+}
+
+.form-mainnn{
+    display: flex;
+    justify-content: right;
+    color: black;
+    margin-right: 60px;
+}
+
+.form-mainnnn{
+    display: flex;
+    justify-content: right;
+    color: black;
+    margin-right: 60px;
+}
+
+.form-mainnnnn{
+    display: flex;
+    justify-content: right;
+    color: black;
+    margin-right: 60px;
+}
+
+.form-mainnnnnn{
+    display: flex;
+    justify-content: right;
+    color: black;
+    margin-right: 60px;
+}
+
+.last-heading{
+    display: flex;
+    justify-content: right;
+    color: white;
+}
+
+.btn{
+    border: 2px solid ; 
+    border-radius: 2px;
+    background: lightblue;
+    color: white;
+    display:inline-block;
+    padding: 12px;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+
+.entries{
+    color: white;
+}
